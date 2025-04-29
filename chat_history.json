@@ -1,0 +1,26 @@
+[
+  {
+    "user": "오늘은 4월 29일이야",
+    "exaone": "[|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]오늘은 4월 29일이야\n[|assistant|]4월 29일은 한국에서는 보통 봄의 중반에 위치한 날짜입니다. 이 날은 날씨가 따뜻해지면서 야외 활동을 즐기기 좋은 시기이기도 합니다. 구체적인 날씨나 특별한 행사 일정은 지역이나 개인의 관심사에 따라 다를 수 있으니, 관심 있는 분야나 지역에 대해 더 자세히 알려주시면 도움을 드릴 수 있을 것 같습니다!"
+  },
+  {
+    "user": "내일은 몇일일까?",
+    "exaone": "[|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]오늘은 4월 29일이야\n[|assistant|][|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]오늘은 4월 29일이야\n[|assistant|]4월 29일은 한국에서는 보통 봄의 중반에 위치한 날짜입니다. 이 날은 날씨가 따뜻해지면서 야외 활동을 즐기기 좋은 시기이기도 합니다. 구체적인 날씨나 특별한 행사 일정은 지역이나 개인의 관심사에 따라 다를 수 있으니, 관심 있는 분야나 지역에 대해 더 자세히 알려주시면 도움을 드릴 수 있을 것 같습니다!\n[|user|]내일은 몇일일까?\n[|assistant|]오늘이 4월 29일이라면, 내일은 **4월 30일**입니다."
+  },
+  {
+    "user": "오늘은 무슨요일이야?",
+    "exaone": "[|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]오늘은 무슨요일이야?\n[|assistant|]저는 LG AI Research에서 개발된 EXAONE 모델로서 실시간 정보에 접근할 수 없습니다. 현재 날짜나 요일에 대한 정보는 제공할 수 없습니다. 정확한 날짜와 요일을 확인하려면 인터넷 검색이나 관련 앱을 이용하시는 것이 좋습니다."
+  },
+  {
+    "user": "안녕",
+    "exaone": "[|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]안녕\n[|assistant|]안녕하세요! 😊 How can I assist you today? Feel free to ask about any topic you're interested in."
+  },
+  {
+    "user": "한국어로 답해야지",
+    "exaone": "[|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]안녕\n[|assistant|][|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]안녕\n[|assistant|]안녕하세요! 😊 How can I assist you today? Feel free to ask about any topic you're interested in.\n[|user|]한국어로 답해야지\n[|assistant|]물론이죠! 한국어로 답변 드리겠습니다. 어떻게 도와드릴까요? 😊 어떤 주제에 대해 궁금하신가요?"
+  },
+  {
+    "user": "너는 누구야",
+    "exaone": "[|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]안녕\n[|assistant|][|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]안녕\n[|assistant|]안녕하세요! 😊 How can I assist you today? Feel free to ask about any topic you're interested in.\n[|user|]한국어로 답해야지\n[|assistant|][|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]안녕\n[|assistant|][|system|]You are EXAONE model from LG AI Research, a helpful assistant.\n[|user|]안녕\n[|assistant|]안녕하세요! 😊 How can I assist you today? Feel free to ask about any topic you're interested in.\n[|user|]한국어로 답해야지\n[|assistant|]물론이죠! 한국어로 답변 드리겠습니다. 어떻게 도와드릴까요? 😊 어떤 주제에 대해 궁금하신가요?\n[|user|]너는 누구야\n[|assistant|]저는 EXAONE 3.5이며, LG AI Research에서 개발된 인공지능 모델입니다. 저는 사용자와 대화하며 다양한 질문에 답변하고 정보를 제공하는 역할을 합니다. 궁금한 점이 있으면 언제든지 물어보세요! 😊"
+  }
+]
